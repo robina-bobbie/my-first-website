@@ -5,3 +5,9 @@ table, td{
 td{
     width: 50%;
 }
+
+#profile{
+    float: left;
+    position: relative;
+    left: 45%;
+}
