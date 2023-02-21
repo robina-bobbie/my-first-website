@@ -1,13 +1,18 @@
-table, td{
+table{
     border: 2px solid;
 }
 
 td{
+    border: 2px solid;
     width: 50%;
+}
+
+#profile,#about-me,#projects{
+    padding: 13px;
 }
 
 #profile{
     float: left;
     position: relative;
-    left: 45%;
+    left: 43%;
 }
